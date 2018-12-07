@@ -1,0 +1,22 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamvelPapyan/les3.git"
+  },
+  "author": "Samvel Papyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamvelPapyan/les3/issues"
+  },
+  "homepage": "https://github.com/SamvelPapyan/les3#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
